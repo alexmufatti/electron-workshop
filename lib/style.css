@@ -70,3 +70,11 @@ textarea, input, div, button { outline: none; }
   font-family: monospace;
   white-space: pre;
 }
+
+.cmd {
+  background-color: rgb(217, 241, 238);
+  padding: 1em;
+  position: fixed;
+  width: 100%;
+  height: 200px;
+}
